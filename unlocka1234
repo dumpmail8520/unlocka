@@ -1,8 +1,6 @@
 function script.update(dt)
 
-ValidIPs[2] = "26.134.167.107"
-local serverIP = "89.144.20.179"
-local isOnlineRace = false
-
+    local data = ac.accessCarPhysics()
+    data.gas = 1
 
 end
