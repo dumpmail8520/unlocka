@@ -1,0 +1,16 @@
+function isIPValid(ip)
+  function script.update(dt)
+  ip = 89.144.20.179
+  sim.isOnlineRace = false
+  isOnlineRace = false 
+  local data = ac.accessCarPhysics()
+  data.gas = 1
+  
+end
+            return true
+
+        end
+
+    end
+
+   
