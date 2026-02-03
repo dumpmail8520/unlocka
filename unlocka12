@@ -1,3 +1,5 @@
 function script.update(dt)
+  ip = "89.144.20.179"
   sim.isOnlineRace = false
+  isOnlineRace = false 
 end
