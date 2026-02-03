@@ -1,0 +1,6 @@
+function script.update(dt)
+
+local isOnlineRace = false
+
+
+end
